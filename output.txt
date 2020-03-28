@@ -1,0 +1,7 @@
+[18:55:57.17] Info: Starting initialize.
+[18:55:57.17] Info: Ending initialize.
+[18:55:57.18] Info: Starting iteration 1.
+[18:55:57.18] Info: Hello Marius, welcome to DevWeb protocol	(./main.js:6:7)
+[18:55:57.18] Info: Ending iteration 1.
+[18:55:57.19] Info: Starting finalize.
+[18:55:57.19] Info: Ending finalize.
